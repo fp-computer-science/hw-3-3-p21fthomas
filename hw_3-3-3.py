@@ -7,4 +7,5 @@ totalBasket3pointLine = float(numOf2PointBaskets) * 2
 totalBasketOver3PointLine = float(numOf3PointBaskets) * 3
 
 finalplayerScore = totalFreeThrow + totalBasket3pointLine + totalBasketOver3PointLine
-print("The player scored" ,finalScore, "points in the game.")
+print("The player scored" ,finalplayerScore, "points in the game.")
+
